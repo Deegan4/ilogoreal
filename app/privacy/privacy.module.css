@@ -1,0 +1,28 @@
+.privacyContainer h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.privacyContainer h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.privacyContainer p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.privacyContainer ul {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  list-style-type: disc;
+}
+
+.privacyContainer li {
+  margin-bottom: 0.5rem;
+}
